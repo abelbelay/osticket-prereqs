@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-  <img src="![261178712-8b28d817-e898-47a6-b32e-9e4889dc1fd8](https://github.com/abelbelay/osticket-prereqs/assets/142059616/cdb7d0f5-9f49-4e65-997b-d20385fb5362)" height="80%" width="80%" alt="Creating a Resource Group"/>
+  <img src="https://imgur.com/a/99eNFuZ" height="80%" width="80%" alt="Creating a Resource Group"/>
 </p>
 
 <p>
