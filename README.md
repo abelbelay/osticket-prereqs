@@ -32,8 +32,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+
 <p>
-<img src="" height="80%" width="80%" alt="Creating a virtual machine"/>
+  <img src="![Picture2](https://github.com/abelbelay/osticket-prereqs/assets/142059616/a2182756-f12c-49bf-8669-155263dd50f1)
+" height="80%" width="80%" alt="Creating a Resource Group"/>
+</p>
+
+<p>
+<img src="" height="60%" width="60%" alt="Creating a virtual machine"/>
 </p>
 <p>
 First you must create a virtual machine that will host OSticket.A virtual machine in Azure is like a digital computer that lives in the cloud, allowing you to run programs and operate like you would on a physical computer.We are going to name our VM "vm-osticket" for best organizational practices. The image we are going to use is Windows 10 pro, as that is the operating system that we will use. We will select the 4vcpu option for the size for optimal performance. You can skip all the tabs until you get to Review and create your VM. Hold on for a few seconds for your VM to deploy, and you have now created your virtual machine
