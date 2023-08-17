@@ -83,6 +83,15 @@ Go to the virtual Machine that was just created and copy the Public IP address .
 <br />
 <hr>
 <h3>Enabling Windows Feature</h3>
-<img src="https://user-images.githubusercontent.com/142059616/261201802-e22e7d88-ac34-4efc-947c-ade1847aa972.png"/>
-<p>Using the virtyal machine press the ⊞ Win key, search for "turn windows features on or off"</p>
+<img src="https://user-images.githubusercontent.com/142059616/261201802-e22e7d88-ac34-4efc-947c-ade1847aa972.png" height="40%" width="50%"/>
+<p>Using the virtual machine press the ⊞ Win key, search for "turn windows features on or off"</p>
+<img src="https://user-images.githubusercontent.com/142059616/261413395-56d61bc3-097d-41ba-941c-173c648ba889.png" height="40%" width="50%"/>
+<p>- Find "Internet Information Services", then click the checkbox ☐ to enable it 
+  - Then, expand the folder by clicking the [+] button next to it.
+- Expand "Application Development Features", then checkmark "CGI".
+- Expand "Common HTTP Features", then checkmark ALL boxes.
+- Click "OK" to apply changes.</p>
+<hr>
 <br />
+<h3>Installing osTicket</h3>
+<p>In order for osTicket to run properly, we are going to need to install the prequisite files onto the virtual machine <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Here </p>
