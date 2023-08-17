@@ -95,3 +95,12 @@ Go to the virtual Machine that was just created and copy the Public IP address .
 <br />
 <h3>Installing osTicket</h3>
 <p>In order for osTicket to run properly, we are going to need to install the prequisite files onto the virtual machine <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Here </p>
+<img src="https://user-images.githubusercontent.com/142059616/261421222-6f55ac4b-399a-451b-9e26-1ae61b120b92.png" height="60%" width="80%"/>
+<p>Select "download all"</p>
+<p>First we will install <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> PHPmanagerForIIS</p>
+<img src="https://user-images.githubusercontent.com/142059616/261431667-0600c144-fb02-4e74-8390-377985ef7595.png" height="20%" width="40%"/>
+<img src="https://user-images.githubusercontent.com/142059616/261433135-4181c4ea-77ec-460c-9de7-6a967516f7c7.png" height="20%" width="40%"/>
+<p>Next we will install <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">rewrite_amd64_en-US.msi</p>
+<img src="https://user-images.githubusercontent.com/142059616/261435729-5cc88c16-b889-4671-b7ca-e97474835948.png" height="20%" width="40%/>
+
+
