@@ -32,9 +32,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-
+<h4>Create a Resource Group</h4>
 <p>
-  <img src="https://imgur.com/a/99eNFuZ" height="80%" width="80%" alt="Creating a Resource Group"/>
+  <img src="https://user-images.githubusercontent.com/142059616/261181101-9a5b961f-8570-4710-b81e-9a8004421b93.png" height="60%" width="60%" alt="Creating a Resource Group"/>
+</p>
+<p><img src="https://user-images.githubusercontent.com/142059616/261181468-b1cf6919-897a-48fc-964e-617b79480b31.png" height="60%" width="60%" alt="Creating a Resource Group"/>
+</p>
+<p>
+  
+</p>
+<p>
+  <img src="https://user-images.githubusercontent.com/142059616/261181696-654eee52-b743-4307-a214-81a8c808369b.png" height="60%" width="60%" alt="Creating a Resource Group"/>
 </p>
 
 <p>
