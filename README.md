@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<h4>Create a Resource Group</h4>
+<h3>Create a Resource Group</h3>
 <p>
   <img src="https://user-images.githubusercontent.com/142059616/261181101-9a5b961f-8570-4710-b81e-9a8004421b93.png" height="60%" width="60%" alt="Creating a Resource Group"/>
 </p>
@@ -48,7 +48,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
   <br>
   <hr>
-<h4>Creating A virtual Machine</h4>
+<h3>Creating A virtual Machine</h3>
 <img src="https://user-images.githubusercontent.com/142059616/261184714-7833ec95-4dc9-48fa-aa71-b7f4cb8e0e4c.png" height="60%" width="60%" alt="Creating a virtual machine"/>
 </p>
 <p>
@@ -64,7 +64,7 @@ We are going to name our VM "vm-osticket" for best organizational practices. The
 <br />
 <hr>
 
-<h4>Connect Virtual Machine using RDP(Remote Desktop)</h4>
+<h3>Connect Virtual Machine using RDP(Remote Desktop)</h3>
 <p>
 <img src="https://user-images.githubusercontent.com/142059616/261189115-201883b4-1284-4a97-b5d4-72a9067f8dd8.png" height ="50% "width="80%" alt="Remote Desktop"/>
 </p>
@@ -72,19 +72,17 @@ We are going to name our VM "vm-osticket" for best organizational practices. The
 <p>
 Go to the virtual Machine that was just created and copy the Public IP address .
 </p>
-<img src="https://user-images.githubusercontent.com/142059616/261189891-ff074ff6-952e-4eb5-b53f-a45ba5e5172a.png" height ="20% "width="80%" alt="Remote Desktop"/>
-<img src="https://user-images.githubusercontent.com/142059616/261190125-4e63b3f8-e606-4111-870b-ece0d3e4d559.png" height ="50% "width="80%" alt="Remote Desktop"/>
+<img src="https://user-images.githubusercontent.com/142059616/261189891-ff074ff6-952e-4eb5-b53f-a45ba5e5172a.png" height ="20% "width="50%" alt="Remote Desktop"/>
+<img src="https://user-images.githubusercontent.com/142059616/261190125-4e63b3f8-e606-4111-870b-ece0d3e4d559.png" height ="20% "width="50%" alt="Remote Desktop"/>
+<img src="https://user-images.githubusercontent.com/142059616/261190888-a616603a-0773-41e6-b124-d0779e7120e8.png" height ="20% "width="50%" alt="Remote Desktop"/>
 
+<p>Open the remote desktop application and paste the IP address. Click "connect". Then you enter your log in information from earlier. A prompt will appear about the identity cannot be verified; just press "YES".</p>
+<img src="https://user-images.githubusercontent.com/142059616/261193321-14204893-87fb-4a16-b8a3-98555fe5c742.png" height="40%" width="50%"/>
+<p>You have now successfully created a Virtual Machine!!</p>
 
-
-
-<p>Open the remote desktop application</p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+<hr>
+<h3>Enabling Windows Feature</h3>
+<img src="https://user-images.githubusercontent.com/142059616/261201802-e22e7d88-ac34-4efc-947c-ade1847aa972.png"/>
+<p>Using the virtyal machine press the ⊞ Win key, search for "turn windows features on or off"</p>
 <br />
