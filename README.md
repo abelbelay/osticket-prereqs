@@ -102,5 +102,20 @@ Go to the virtual Machine that was just created and copy the Public IP address .
 <img src="https://user-images.githubusercontent.com/142059616/261433135-4181c4ea-77ec-460c-9de7-6a967516f7c7.png" height="20%" width="40%"/>
 <p>Next we will install <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">rewrite_amd64_en-US.msi</p>
 <img src="https://user-images.githubusercontent.com/142059616/261435729-5cc88c16-b889-4671-b7ca-e97474835948.png" height="20%" width="40%/>
+<img src="https://user-images.githubusercontent.com/142059616/261917312-e1f4e8e2-b50a-4a3a-96ad-2a5470922498.png" height="20%" width="40%"/>
+<p>Next we are going to create a directory</p>
+<ul><li>Open Windows C:\ on File Explorer</li>
+  <li>Right click on the empty space</li>
+<li>Select new --> Folder to create a blank new folder</li>
+<li>Name the folder "PHP"</li></ul>
+<img src="https://user-images.githubusercontent.com/142059616/261918932-5f51b4a8-9692-4044-9bef-fb2aaf91cb99.png" height="55%" width="60%"/>
+<img src="https://user-images.githubusercontent.com/142059616/261919280-a67ad0ff-0a63-418f-a59e-ec903601bb02.png" height="55%" width="60%"/>
+<p>Next, download <a href"https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">php-7.3.8-nts</p>
+<p>Right click on the file, select "extract all"->"browse"->find the "PHP" folder-> select "Extract"</p>
+<img src="https://user-images.githubusercontent.com/142059616/261921223-9ef54520-e3dd-4900-a872-6dc674af74b0.png" height="55%" width="60%"/>
+<img src="https://user-images.githubusercontent.com/142059616/261921333-7c884ac2-f167-47e1-8a5b-d5f9d126ca01.png" height="55%" width="60%"/>
+<p>Install <a href="https://drive.google.com/drive/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">VC_redlist.x86.exe</p>
+<img src="https://user-images.githubusercontent.com/142059616/261925385-293be6ee-bdb7-4468-914a-13efd10c1e0b.png" height="55%" width="60%"/> 
+
 
 
